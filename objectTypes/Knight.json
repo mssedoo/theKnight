@@ -1,0 +1,186 @@
+{
+	"name": "Knight",
+	"plugin-id": "Sprite",
+	"sid": 348346461434800,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 518391929787883
+		},
+		{
+			"behaviorId": "scrollto",
+			"name": "ScrollTo",
+			"sid": 576874505960583
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 66,
+						"height": 75,
+						"originX": 0.6666666666666666,
+						"originY": 0.36,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 476784,
+						"collisionPoly": {
+							"points": [
+								0.24242424242424232,
+								0,
+								0.9090909090909092,
+								0,
+								0.9090909090909092,
+								0.9823656570270497,
+								0.24242424242424232,
+								0.9866666666666667
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 66,
+						"height": 76,
+						"originX": 0.6666666666666666,
+						"originY": 0.36,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9270160,
+						"collisionPoly": {
+							"points": [
+								0.24242424242424232,
+								0,
+								0.9090909090909092,
+								0,
+								0.9090909090909092,
+								0.9823656570270497,
+								0.24242424242424232,
+								0.9866666666666667
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 66,
+						"height": 76,
+						"originX": 0.6666666666666666,
+						"originY": 0.36,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8231008,
+						"collisionPoly": {
+							"points": [
+								0.24242424242424232,
+								0,
+								0.9090909090909092,
+								0,
+								0.9090909090909092,
+								0.9823656570270497,
+								0.24242424242424232,
+								0.9866666666666667
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 66,
+						"height": 76,
+						"originX": 0.6666666666666666,
+						"originY": 0.36,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8839874,
+						"collisionPoly": {
+							"points": [
+								0.24242424242424232,
+								0,
+								0.9090909090909092,
+								0,
+								0.9090909090909092,
+								0.9823656570270497,
+								0.24242424242424232,
+								0.9866666666666667
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 66,
+						"height": 76,
+						"originX": 0.6666666666666666,
+						"originY": 0.36,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3888565,
+						"collisionPoly": {
+							"points": [
+								0.24242424242424232,
+								0,
+								0.9090909090909092,
+								0,
+								0.9090909090909092,
+								0.9823656570270497,
+								0.24242424242424232,
+								0.9866666666666667
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 66,
+						"height": 75,
+						"originX": 0.6666666666666666,
+						"originY": 0.36,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 5502384,
+						"collisionPoly": {
+							"points": [
+								0.24242424242424232,
+								0,
+								0.9090909090909092,
+								0,
+								0.9090909090909092,
+								0.9823656570270497,
+								0.24242424242424232,
+								0.9866666666666667
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 293720324126319,
+				"name": "Idle",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 10
+			}
+		],
+		"subfolders": []
+	}
+}

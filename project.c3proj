@@ -12,14 +12,58 @@
 			"name": "Sprite",
 			"author": "Scirra",
 			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Tilemap",
+			"name": "Tilemap",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Platform",
+			"name": "Platform",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "scrollto",
+			"name": "Scroll To",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Solid",
+			"author": "Scirra",
+			"bundled": false
 		}
 	],
 	"uniqueId": "6ul2gvuiem0",
 	"objectTypes": {
 		"items": [
-			"Sprite"
+			"Knight",
+			"VillageGround",
+			"Lvl1Guide",
+			"VillageProps"
 		],
-		"subfolders": []
+		"subfolders": [
+			{
+				"items": [
+					"Background_2"
+				],
+				"subfolders": [],
+				"name": "Background"
+			},
+			{
+				"items": [],
+				"subfolders": [],
+				"name": "Village"
+			}
+		]
 	},
 	"autosaveData": null,
 	"containers": [],
@@ -29,7 +73,7 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 1"
+			"LVL1"
 		],
 		"subfolders": []
 	},

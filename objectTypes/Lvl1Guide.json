@@ -1,7 +1,7 @@
 {
-	"name": "Sprite",
+	"name": "Lvl1Guide",
 	"plugin-id": "Sprite",
-	"sid": 904497866399541,
+	"sid": 800143377693635,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,21 +11,21 @@
 			{
 				"frames": [
 					{
-						"width": 250,
-						"height": 250,
-						"originX": 0.5,
-						"originY": 0.5,
+						"width": 3200,
+						"height": 480,
+						"originX": 0,
+						"originY": 0,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1155647,
+						"imageSpriteId": 2310487,
 						"useCollisionPoly": true,
 						"duration": 1,
 						"tag": ""
 					}
 				],
-				"sid": 822513568304209,
-				"name": "Animation 1",
+				"sid": 814215170857534,
+				"name": "Default",
 				"isLooping": false,
 				"isPingPong": false,
 				"repeatCount": 1,
