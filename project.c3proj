@@ -5,11 +5,65 @@
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
-	"usedAddons": [],
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Tilemap",
+			"name": "Tilemap",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Platform",
+			"name": "Platform",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "scrollto",
+			"name": "Scroll To",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Solid",
+			"author": "Scirra",
+			"bundled": false
+		}
+	],
 	"uniqueId": "6ul2gvuiem0",
 	"objectTypes": {
-		"items": [],
-		"subfolders": []
+		"items": [
+			"Knight",
+			"VillageGround",
+			"Lvl1Guide",
+			"VillageProps"
+		],
+		"subfolders": [
+			{
+				"items": [
+					"Background_2"
+				],
+				"subfolders": [],
+				"name": "Background"
+			},
+			{
+				"items": [],
+				"subfolders": [],
+				"name": "Village"
+			}
+		]
 	},
 	"autosaveData": null,
 	"containers": [],
@@ -19,7 +73,7 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 1"
+			"LVL1"
 		],
 		"subfolders": []
 	},
